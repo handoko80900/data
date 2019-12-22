@@ -1,0 +1,2 @@
+# data
+Data dari pekerjaan 
